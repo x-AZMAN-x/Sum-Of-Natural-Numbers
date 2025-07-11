@@ -5,5 +5,4 @@ i=0
 while(i<=num):
     sum += i
     i+=1
-    
 print(f"Sum Of First {num} Natural Numbers Are: {sum}")
